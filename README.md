@@ -19,4 +19,3 @@ I chose the Web3 direction because I believe that the idea of cryptocurrency can
 
 ## Currently learning
 - Smart contract security patterns  
-- Advanced testing (fuzzing & invariant tests with Foundry)  
