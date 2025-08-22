@@ -15,7 +15,7 @@ I chose the Web3 direction because I believe that the idea of cryptocurrency can
 - **Testing:** Foundry (forge)  
 - **Security tools:** Slither, Echidna, MythX (static + fuzzing)  
 - **Frontend:** React, ethers.js, wagmi/RainbowKit  
-- **DevOps:** GitHub Actions, deployment scripts, dotenv  
+- **DevOps:** GitHub Actions, deployment scripts
 
 ## Currently learning
 - Smart contract security patterns  
