@@ -18,4 +18,4 @@ I chose the Web3 direction because I believe that the idea of cryptocurrency can
 - **DevOps:** GitHub Actions, deployment scripts
 
 ## Currently learning
-- Smart contract security patterns  
+- Assembly and Formal Verification
