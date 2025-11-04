@@ -11,11 +11,8 @@ Aspiring Solidity & dApp developer · 2 years into Web3 · learning fast and bui
 I chose the Web3 direction because I believe that the idea of cryptocurrency can become something ordinary in the future — if the right people are involved to ensure security, transparency, and to preserve the core idea of cryptocurrency.
 
 ## Tech stack
-- **Languages:** Solidity, JavaScript, TypeScript  
+- **Languages:** Solidity, JavaScript, TypeScript, Python
 - **Testing:** Foundry (forge)  
 - **Security tools:** Slither, Echidna, MythX (static + fuzzing)  
-- **Frontend:** React, ethers.js, wagmi/RainbowKit  
+- **Frontend:** React, next.js, ethers.js, wagmi/RainbowKit  
 - **DevOps:** GitHub Actions, deployment scripts
-
-## Currently learning
-- Assembly and Formal Verification
